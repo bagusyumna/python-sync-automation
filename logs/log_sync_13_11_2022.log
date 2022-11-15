@@ -1,0 +1,8 @@
+[2022-11-13 16:06:00,526 - INFO] ==============================
+[2022-11-13 16:06:00,537 - INFO] [Starting sync karyawan]
+[2022-11-13 16:06:00,537 - INFO] [Creating temp table karyawan]
+[2022-11-13 16:06:00,551 - INFO] [Insert into temp table]
+[2022-11-13 16:06:03,389 - INFO] [Insert update from temp table to table karyawan]
+[2022-11-13 16:06:03,412 - INFO] [Drop temp table karyawan]
+[2022-11-13 16:06:03,421 - INFO] [successfully sync data karyawan]
+[2022-11-13 16:06:03,422 - INFO] ==============================
